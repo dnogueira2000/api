@@ -39,7 +39,7 @@
 <div>
  <b>Bibliotecas e tecnologias</b>
   <p>
-    Foram utilizadas as tecnologias 
+    Foram utilizadas as tecnologias: 
     <ul>
       <li>Java 8</li>
       <li>SpringBoot 2.2.6.RELEASE</li>
@@ -55,7 +55,7 @@
 <p>
   Foi dividida em config, controller, dto, form, model, repository e service.<br>
   Sendo delegada cada responsabilidade para um pacote especifico. Por exemplo,
-  o controller cuidadndo da lógica, o service consumindo do controller.
+  o controller cuidando da lógica, o service consumindo do controller.
   O DTO sendo usado em vem de mandar a entidade, entre outras.
   </p>
 </div>
