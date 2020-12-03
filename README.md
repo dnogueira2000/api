@@ -55,7 +55,7 @@
 <p>
   Foi dividida em config, controller, dto, form, model, repository e service.<br>
   Sendo delegada cada responsabilidade para um pacote especifico. Por exemplo:
-  O *service* cuidando da regra de negócio, o *contoller* consumindo o *service*. 
+  O <b>service</b> cuidando da regra de negócio, o <b>contoller</b> consumindo o <b>service</b>.
   DTO sendo usado em vez de mandar a entidade, entre outras.
   </p>
 </div>
