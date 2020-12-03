@@ -56,6 +56,6 @@
   Foi dividida em config, controller, dto, form, model, repository e service.<br>
   Sendo delegada cada responsabilidade para um pacote especifico. Por exemplo,
   o controller cuidando da lógica, o service consumindo do controller.
-  O DTO sendo usado em vem de mandar a entidade, entre outras.
+  O DTO sendo usado em vez de mandar a entidade, entre outras.
   </p>
 </div>
